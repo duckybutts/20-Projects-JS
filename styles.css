@@ -1,0 +1,22 @@
+body {
+  background-color: #d6fdff;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: grey;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  text-decoration: none;
+  color: grey;
+}
+
+a:hover {
+  cursor: pointer;
+  color: black;
+}
