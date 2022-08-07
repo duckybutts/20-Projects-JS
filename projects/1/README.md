@@ -20,4 +20,4 @@ input.className.charAt(0).toUpperCase() + input.className.slice(1);
 
 Trim() method: removes whitespace
 
-event.preventDefault(): Prevents the event button from happening.
+event.preventDefault(): Prevents the event from happening.
